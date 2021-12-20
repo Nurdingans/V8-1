@@ -1,6 +1,6 @@
 {
 "banChats": false,
-"autoread": true,
+"autoread": false,
 "autocomposing": false,
 "autorecording": false,
 "OwnerName": "Andrii Street Moonshine",
