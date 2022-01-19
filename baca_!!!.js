@@ -11,8 +11,8 @@ Kalau Error Dari Luh Jangan Chat Gw :(
 Kalau Gak Tau Mending Estrak Ulang
 
 File Foto :
-1. dhani.jpg , Minimal di bawah 100 Kb 
-2. dhanithumb.jpg , Minimal Di Bawah 200 Kb
+1. Tak berjudul1_20220116055250.png , Minimal di bawah 100 Kb 
+2. Tak berjudul1_20220116055250.png , Minimal Di Bawah 200 Kb
 
 Paham ?
 
@@ -38,7 +38,7 @@ zekskey : https://api.zeks.me
 
 ==========[ AKHIR ]==========
 
-Jangan Lupa Subscribe YT : Bot Dhani ?
+Jangan Lupa Subscribe YT : Bot TZYDIN ?
 jan lupa dukung gua terus
 
 Mohon Di Baca Semua Yak !!
